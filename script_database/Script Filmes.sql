@@ -131,7 +131,7 @@ INSERT [dbo].[Atores]([Nome], [Genero]) VALUES('Ali Asti', 'F')
 GO
 ----------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
-INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Um Corpo que Cai', 1958, 128)
+INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Vida Feliz', 1958, 128)
 GO
 INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Os Inocentes', 1961, 100)
 GO
@@ -143,13 +143,13 @@ INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Amadeus', 1984, 160)
 GO
 INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Blade Runner', 1982, 117)
 GO
-INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('De Olhos Bem Fechados', 1999, 159)
+INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Há Esperança', 1999, 159)
 GO
 INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Os Suspeitos', 1995, 106)
 GO
 INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Chinatow', 1974, 130)
 GO
-INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Boogie Nights - Prazer Sem Limites', 1997, 155)
+INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Rumo Sem Limites', 1997, 155)
 GO
 INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Noivo Neurótico, Noiva Nervosa', 1977, 93)
 GO
@@ -175,7 +175,7 @@ INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Quem Quer Ser um Milion
 GO
 INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Aliens, O Resgate', 1986, 137)
 GO
-INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Uma Vida sem Limites', 2004, 118)
+INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Velozes e Furiosos - 3', 2004, 118)
 GO
 INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Avatar', 2009, 162)
 GO
@@ -183,7 +183,7 @@ INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Coração Valente', 199
 GO
 INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('Os Sete Samurais', 1954, 207)
 GO
-INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('A Viagem de Chihiro', 2001, 125)
+INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('A Viagem de Maria', 2001, 125)
 GO
 INSERT [dbo].[Filmes]([Nome], [Ano], [Duracao]) VALUES ('De Volta para o Futuro', 1985, 116)
 GO
