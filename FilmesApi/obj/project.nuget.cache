@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NkHpr5Z5sK7E+zOy4hOt4s5aaXzUxn21VfQDDZVfplJkwdL+1JNt8OWE0JrZ7AK0j1McjFpKC+CTwAtHKk0zDg==",
+  "dgSpecHash": "i+mGhORDkctPLDEGnshGRZF/DwyKP9OpxwcVhEskpLgZsbtvQRVg/kpfiwDzPGsv34GxaE1lBHCASbcuc1eyQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aless\\Audaces_2\\M2S09\\filmesapi\\FilmesApi.csproj",
+  "projectFilePath": "c:\\Users\\aless\\Audaces_2\\M2S09\\FilmesApi\\FilmesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aless\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\aless\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
